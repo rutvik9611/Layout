@@ -1,0 +1,10 @@
+@media screen and(max-width:900px){
+    .logo_img{
+        width: 100%;
+    }
+}
+@media screen and(max-width:767px){
+    .wal_photo{
+        width: 50%;
+    }
+}
